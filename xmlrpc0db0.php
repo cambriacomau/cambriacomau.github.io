@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://www.cambria.com.au</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://www.cambria.com.au/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.cambria.com.au/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.cambria.com.au/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://www.cambria.com.au/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.cambria.com.au/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://cambria.com.au/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://cambria.com.au/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://cambria.com.au/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://cambria.com.au/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://cambria.com.au/wp-json/" />
 			</apis>
 	</service>
 </rsd>
